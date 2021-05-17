@@ -1,0 +1,22 @@
+This file summarizes the various jupyter notebooks
+
+1: Daily Vaccination Num Scrapper: Collates the daily vaccination numbers of 
+different health regions.
+
+2: Aggregate Daily Vaccination Numbers: Creates a data frame and worker key 
+from daily vaccination numbers per PHU
+
+3: Ontario data Connector: Connects with Ontario API, reads data into csv files
+
+4: Population distribution by PHU in Ontario : 
+
+5: Data Visualization and Wrangling
+
+
+
+1: MVP_Building models: Trying out basic VAR models
+2: VAR MODEL TORONTO: A model for toronto health region using daily covid numbers
+2: VAR MODEL TORONTO CUMCOVID NUMBERS: Model for toronto health region using cummulative covid numbers 
+3: RNN_BUILD_MODEL: Building basic rnn models and attemping to tune hyerparameters
+4: VAR_MODEL_ONTARIO:  A vector autoregression model for Ontario
+5: MAIN MODEL ONTARIO: Combined models for Ontario 
